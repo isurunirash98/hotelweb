@@ -1,0 +1,39 @@
+.footerBody{
+    width: 100%;
+    height: 10rem;
+    background-color: #53504B;
+    margin-top: -1.5rem;
+}
+
+.column2{
+    width: 40.33%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    color: #f0f0f0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-top: 4.5rem;
+    
+  }
+
+  .column1 {
+    width: 20.33%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-left: 4rem;
+    margin-top: 4.5rem;
+    color: #f0f0f0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    display: flex;
+ 
+  }
+
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
