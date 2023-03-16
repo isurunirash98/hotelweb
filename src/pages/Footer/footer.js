@@ -6,13 +6,13 @@ function Footer() {
 
 <div class="row">
       <div class="column1">
-        <p>Follow Us</p>
+        <p>Follow Us:</p>
       </div>
       <div class="column2">
-        <p>TWITTER LINKEDIN INSTAGRAM BEHANCE FACEBOOK</p>
+        <p>Twitter  Linkedin  Instagram  Behance  Facebook</p>
       </div>
-      <div class="column">
-        <p>Column 3</p>
+      <div class="column3">
+        <p>Copyright © 2023</p>
       </div>
     </div>
     </footer>

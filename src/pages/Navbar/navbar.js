@@ -11,19 +11,19 @@ function Navbar() {
         <img className="logo" src={logo} alt="Logo" />
         <div className="items">
         <a href="/" className="navbar-item">
-          HOME
+          Home
         </a>
         <a href="/" className="navbar-item">
-          OFFERS
+          Offers
         </a>
         <a href="/" className="navbar-item">
-          VIRTUAL TOURS
+          Virtual Tours
         </a>
         <a href="/" className="navbar-item">
-          CONTACT US
+          Contact Us
         </a>
         <a href="/" className="navbar-item">
-          ABOUT
+          About
         </a>
         </div>
       </div>

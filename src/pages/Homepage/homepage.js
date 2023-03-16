@@ -32,8 +32,9 @@ function Homepage() {
                 Unwind The <br></br> Pearl Of Luxury <br></br> At Sea Pearl.
               </div>
               <div className="text">
-                Optimize the landing page for search engines by <br></br>
-                including relevant keywords and meta tags.
+                Cras eget velit magna. Vivamus vitae faucibus velit. Sed nunc
+                nibh <br></br>
+                including relevant keywords Vivamus vitae faucibus.
               </div>
 
               <div className="container">

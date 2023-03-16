@@ -70,7 +70,17 @@
     background: #F2C798;
     border-radius: 50px;
     margin-left: 1rem;
+    border: #000000;
+    box-shadow: 10px 15px 15px rgba(0, 0, 0, 0.021);
+    cursor: pointer;
+    border-color: #000000;
 }
+
+.button:hover{
+    background-color: #D9D9D9;
+    cursor: pointer;
+}
+
 
 .row1{
     display: inline-block;
@@ -144,9 +154,15 @@
     background: #D9D9D9;
     border-radius: 50px;
     margin-left: 1.3rem;
-    border-color: #D9D9D9
+    border: #000000 0.5px;
+    box-shadow: 10px 15px 15px rgba(0, 0, 0, 0.021);
+    cursor: pointer;
+    border-color: #000000;
 }
-
+.subContent1-button:hover{
+    background-color: #F2C798;
+    cursor: pointer;
+}
 
 /* subContent2 */
 
@@ -172,7 +188,15 @@
     background: #D9D9D9;
     border-radius: 50px;
     margin-left: 1.3rem;
-    border-color: #D9D9D9
+    border: #000000 0.5px;
+    box-shadow: 10px 15px 15px rgba(0, 0, 0, 0.021);
+    cursor: pointer;
+    border-color: #000000;
+}
+
+.subContent2-button:hover{
+    background-color: #F2C798;
+    cursor: pointer;
 }
 
 .subContent2-more{
@@ -359,9 +383,16 @@
     background: #D9D9D9;
     border-radius: 50px;
     margin-left: 1.3rem;
-    border-color: #D9D9D9;
-
+    border: #000000 0.5px;
+    box-shadow: 10px 15px 15px rgba(0, 0, 0, 0.021);
+    cursor: pointer;
+    border-color: #000000;
   }
+
+  .button-cards:hover{
+    background-color: #ffffff;
+    cursor: pointer;
+}
 
 
   /* more details */
@@ -572,10 +603,18 @@
     background: #F2C798;
     border-radius: 50px;
     margin-left: 15px;
-    border-color: #e4d6d6;
     margin-top: 3.5rem;
-
+    border: #000000;
+    box-shadow: 10px 15px 15px rgba(0, 0, 0, 0.021);
+    cursor: pointer;
+    border-color: #000000;
 }
+
+.reach-button:hover{
+    background-color: #D9D9D9;
+    cursor: pointer;
+}
+
 
 .row-reach {
     display: flex;
