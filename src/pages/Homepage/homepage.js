@@ -71,7 +71,7 @@ function Homepage() {
 
         <div className="secondContent">
           <div className="topic2">
-            Dsicover a world of luxury leisure and nature
+            Discover a world of luxury leisure and nature
           </div>
           <div className="topic2Content">
             The one & only five star resort in the Sylret region of <br></br>{" "}
